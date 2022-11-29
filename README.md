@@ -1,6 +1,6 @@
 # klyno-python-train のレポジトリです
 
-## 各file詳細
+## 〈各file詳細〉
 
 ### **① ~/Folium**
 
